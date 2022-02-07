@@ -5,5 +5,7 @@ public class chapter06 {
 		StringBuilder sb = new StringBuilder();
 
 		sb.append("hello").append("java").append("world");
+		
+		
 	}
 }
